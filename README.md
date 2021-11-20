@@ -5,13 +5,13 @@
 [About](#about)
 [Project](#project)
 
-# About -
+# About
 
 #### GitHub User: imjord
 
 #### User Email: jordanharperjs@gmail.com
 
-# Project -
+# Project
 
 ## Project Name: imjord Guessing Game
 
@@ -20,7 +20,3 @@
 ##### Repo License:
 
 #### Repo Info: You will need JDK or JRE installed.
-
-#### Badge:
-
-![badge](https://img.shields.io/static/v1?label=License&message=&color=blue)
